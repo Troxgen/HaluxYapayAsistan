@@ -1,0 +1,15 @@
+C:\Users\troxg\source\repos\Halux\Halux\bin\Debug\Halux.exe.config
+C:\Users\troxg\source\repos\Halux\Halux\bin\Debug\Halux.exe
+C:\Users\troxg\source\repos\Halux\Halux\bin\Debug\Halux.pdb
+C:\Users\troxg\source\repos\Halux\Halux\obj\Debug\Halux.csproj.AssemblyReference.cache
+C:\Users\troxg\source\repos\Halux\Halux\obj\Debug\Halux.Properties.Resources.resources
+C:\Users\troxg\source\repos\Halux\Halux\obj\Debug\Halux.csproj.GenerateResource.cache
+C:\Users\troxg\source\repos\Halux\Halux\obj\Debug\Halux.csproj.CoreCompileInputs.cache
+C:\Users\troxg\source\repos\Halux\Halux\obj\Debug\Halux.exe
+C:\Users\troxg\source\repos\Halux\Halux\obj\Debug\Halux.pdb
+C:\Users\troxg\source\repos\Halux\Halux\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\troxg\source\repos\Halux\Halux\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\troxg\source\repos\Halux\Halux\obj\Debug\Halux.AnaEkran.resources
+C:\Users\troxg\source\repos\Halux\Halux\obj\Debug\Halux.csproj.Up2Date
+C:\Users\troxg\source\repos\Halux\Halux\obj\Debug\Halux.KomutDuzenleme.resources
+C:\Users\troxg\source\repos\Halux\Halux\obj\Debug\Halux.Ayarlar.resources

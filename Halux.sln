@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halux", "Halux\Halux.csproj", "{A116CC9E-6615-4A78-BDE0-219B65C9951B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A116CC9E-6615-4A78-BDE0-219B65C9951B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A116CC9E-6615-4A78-BDE0-219B65C9951B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A116CC9E-6615-4A78-BDE0-219B65C9951B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A116CC9E-6615-4A78-BDE0-219B65C9951B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A95129F4-35FE-4658-9E04-1D5EE0099228}
+	EndGlobalSection
+EndGlobal
