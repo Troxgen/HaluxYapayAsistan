@@ -1,0 +1,66 @@
+<komutlar>
+  <prefix>Jarvis</prefix>
+  <komut>
+    <komutadi>Valorant Aç</komutadi>
+    <islev>ProgramAc</islev>
+    <deger>C:\\Users\\troxg\\AppData\\Roaming\\.minecraft\\TLauncher.exe</deger>
+    <SoylecekCumle>Valorant Adlı Oyunu Açıyorum</SoylecekCumle>
+  </komut>
+  <komut>
+    <komutadi>Close</komutadi>
+    <islev>PowerOff</islev>
+    <SoylecekCumle>10 Dakika içinde bilgisyarınızı Kapatıyorum.</SoylecekCumle>
+  </komut>
+  <komut>
+    <komutadi>Cancel</komutadi>
+    <islev>PowerOffCancel</islev>
+    <SoylecekCumle>Kapatma Iptal Ediliyor.</SoylecekCumle>
+  </komut>
+  <komut>
+    <komutadi>Göster</komutadi>
+    <islev>Goster</islev>
+    <SoylecekCumle>Ekrandan Gizleniyor</SoylecekCumle>
+  </komut>
+  <komut>
+    <komutadi>Sesi Kapat</komutadi>
+    <islev>SesDegeri</islev>
+    <deger>0</deger>
+    <SoylecekCumle>Sesi Kapatıyorum</SoylecekCumle>
+  </komut>
+  <komut>
+    <komutadi>Sesi Aç</komutadi>
+    <islev>SesDegeri</islev>
+    <deger>100</deger>
+    <SoylecekCumle>Sesi Tamamen Açıyorum</SoylecekCumle>
+  </komut>
+  <komut>
+    <komutadi>Gizle</komutadi>
+    <islev>Gizle</islev>
+    <SoylecekCumle>Ekrandan Gizleniyorum</SoylecekCumle>
+  </komut>
+  <komut>
+    <komutadi>Clear</komutadi>
+    <islev>KisaYol</islev>
+    <deger>W</deger>
+    <SoylecekCumle>Programları Kapatıyorum</SoylecekCumle>
+  </komut>
+  <komut>
+    <komutadi>Dön</komutadi>
+    <islev>SarkiAtla</islev>
+    <SoylecekCumle>Çalınan Şarkıyı Atlayıroum</SoylecekCumle>
+  </komut>
+  <komut>
+    <komutadi>Sonraki</komutadi>
+    <islev>SarkiDon</islev>
+    <SoylecekCumle>Bir Önceki Çalınan Şarkıyı Dönüyorum</SoylecekCumle>
+  </komut>
+  <komut>
+    <komutadi>Oynat</komutadi>
+    <islev>oynat</islev>
+    <SoylecekCumle>Oynatıyorum</SoylecekCumle>
+  </komut>
+  <komut>
+    <komutadi>Dolar</komutadi>
+    <islev>Kur</islev>
+  </komut>
+</komutlar>
